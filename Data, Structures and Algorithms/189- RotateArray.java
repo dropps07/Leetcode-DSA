@@ -1,5 +1,5 @@
 class solution{
-publicn void rotate(int k, int [] nums){
+public void rotate(int k, int [] nums){
 
 int temp[] = new int[nums.length];
 int k = k% nums.length;
