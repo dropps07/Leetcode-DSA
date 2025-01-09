@@ -1,0 +1,12 @@
+class Solution {
+    public List<String> stringMatching(String[] words) {
+       List<String> str = new ArrayList<String>();//string builder will not be able to be converted after this
+        for(int i =0;i<words.length;i++){
+            for(int j=0;j<words.length;j++){
+                if( i!=j && words[i].contains(words[j]) && !str.contains(words[j])){
+                    str.add(words[j]);            // add func for lists , append for str
+                }
+            }
+        }return str;
+    }
+}
