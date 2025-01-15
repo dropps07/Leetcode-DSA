@@ -1,0 +1,20 @@
+class Solution {
+    public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
+        int len= candies.length;
+        ArrayList<Boolean> leng = new ArrayList<Boolean>(); 
+        int c=0;
+        for(int i : candies){
+            if(i>c){
+                c=i;
+            }
+        }
+        for(int j=0;j<len;j++){
+            if(candies[j] + extraCandies >= c){
+                leng.add(true);
+                }else{
+                leng.add(false);
+                    }
+                } 
+            return leng;
+        }
+    }
