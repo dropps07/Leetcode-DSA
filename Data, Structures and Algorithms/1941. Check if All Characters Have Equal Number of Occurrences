@@ -1,0 +1,23 @@
+class solutions{
+public boolean areOccurrencesEqual(String s){
+  int c=0;
+  int l = s.length();
+  for (int i=0;i<l;i++){
+   if(s.charAt(i)==s.charAt(0)){
+    c++:
+   }
+  }
+for(int i=0;i<l;i++){
+  int count=0;
+  for(int j=0;j<l;j++){
+   if(s.charAt(j) == s.charAt(i)){
+   count++;
+   }
+  }
+if(count!=count){
+return false;
+}
+}
+return true;
+}
+}
