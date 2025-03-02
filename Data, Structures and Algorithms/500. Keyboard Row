@@ -1,0 +1,29 @@
+class Solution {
+    public String[] findWords(String[] words) {
+        List<String> list = new ArrayList<>();
+        String fR ="qwertyuiopQWERTYUIOP";
+        String sR ="asdfghjklASDFGHJKL";
+        String tR = "zxcvbnmZXCVBNM";
+        for(String str : words){
+            int f=0,s=0,t=0;
+            int n= str.length();
+            for(int i=0;i<n;i++){
+                if(fR.contains(String.valueOf(str.charAt(i)))){
+                    f++;
+                }
+                if(sR.contains(String.valueOf(str.charAt(i)))){
+                    s++;
+                }
+                if(tR.contains(String.valueOf(str.charAt(i)))){
+                    t++;
+                }
+                if(f==n || s==n || t==n ){
+                    list.add(str);
+                }
+            }
+        }
+            String[] r= new String[list.size()];
+            list.toArray(r);
+            return r;
+    }
+}
