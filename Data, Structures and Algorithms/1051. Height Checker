@@ -1,0 +1,13 @@
+class Solution {
+public int heightChecker(int [] heights){
+int hie[] = Arrays.copyOf(heights, heights.length);
+int c=0;
+Arrays.sort(hie);
+for(int i=0;i<heights.length;i++){
+if(heights[i]!= hie[i]){
+c++:
+}
+}
+return c;
+}
+}
