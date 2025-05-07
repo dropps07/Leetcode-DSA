@@ -1,0 +1,4 @@
+SELECT email FROM Person
+gorup by email
+having count(email) > 1
+;
