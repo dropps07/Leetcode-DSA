@@ -1,0 +1,20 @@
+class Solution {
+    public List<List<Integer>> generate(int numRows) {
+      List<List<Integer>> list = new ArrayList<>();
+      for(int i=1;i<=numRows;i++){
+        List<Integer> inner = new ArrayList<>();
+        inner.add(1);                             // adding start point 1
+        for(int j=1;j<i-1;j++){                   // i<=numRows in first so i-4 will give prev value i.e i=4 if numRows = 5
+        List<Integer> prev = list.get(i - 2);     // previous row
+        int sum = prev.get(j - 1) + prev.get(j);  // j=1 and j=4 but j-1 j = 3
+        // sum of two numbers above
+        inner.add(sum);
+        }
+        if(i>1){
+            inner.add(1);                         // adding end point 1
+        }
+        list.add(inner);
+      }  
+      return list;
+    }
+}
