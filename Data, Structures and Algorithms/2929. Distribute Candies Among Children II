@@ -1,0 +1,12 @@
+class Solution {
+    public long distributeCandies(int n, int limit) {
+        long c=0;
+        for(int i =0;i<=Math.min(n, limit);i++){
+            int maxJ = Math.min(n-i, limit);
+            int minJ = Math.max(0, n-i-limit);
+            if(minJ <= maxJ){
+                c+= (maxJ-minJ + 1);
+            }
+        } return c;
+    }
+}
