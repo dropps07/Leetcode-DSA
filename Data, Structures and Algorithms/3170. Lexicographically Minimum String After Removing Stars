@@ -1,0 +1,35 @@
+class Solution {
+    public String clearStars(String s) {
+        int len = s.length();
+        PriorityQueue<Character> charQueue = new PriorityQueue<>(); //queue to store charc and letters
+        Map<Character, Deque<Integer>> charMap = new HashMap<>(); // store chara + indices
+        boolean[] keep = new boolean[len]; // mrks which arr to keep
+        Arrays.fill(keep, true); //true to initially keep all charac
+
+        for(int i=0;i<len;i++){
+            char c = s.charAt(i);
+            if(c == '*'){
+                if(!charQueue.isEmpty()){ //if its not empty means there is smthgn to erase
+                char smallest = charQueue.peek(); //look for smallest charc
+                int indexToRemove = charMap.get(smallest).removeLast(); //gets index of smallest frm map
+                keep[i] = false; // remove *
+                keep[indexToRemove] = false; // remove smallest charac
+                charQueue.remove(smallest);
+                }else { 
+                    keep[i]= false; // just remove *
+                }
+            } else {
+                charQueue.offer(c); //if chrc is a regular letter
+                charMap.putIfAbsent(c, new ArrayDeque<>()); //adds the chrac ot priorityQueue
+                charMap.get(c).add(i); //adds index of the charac to the Queue
+            }
+        }
+        StringBuilder res = new StringBuilder();
+        for(int i=0;i<len;i++){ //iterating over keep arr
+            if(keep[i]){    // if the charc should be keep
+                res.append(s.charAt(i)); // adds arr to the resulting str
+            }
+        }
+        return res.toString();
+    }
+}
