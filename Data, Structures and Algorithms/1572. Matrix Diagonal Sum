@@ -1,0 +1,17 @@
+class Solution {
+    public int diagonalSum(int[][] mat) {
+        int r = mat.length;
+        int c = mat[0].length;
+        int sum =0;
+        for(int row=0;row<r;row++){
+            int prim= mat[row][row];
+            int col = c - row -1;
+            int sec= mat[row][col];
+                sum+=prim;
+                if(row != (col)){
+                    sum += sec;
+                }
+                }
+                return sum;
+    }
+}
