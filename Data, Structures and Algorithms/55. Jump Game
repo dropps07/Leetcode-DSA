@@ -1,0 +1,11 @@
+class Solution {
+    public boolean canJump(int[] nums) {
+        int len = nums.length;
+        int max =0;
+        for(int i =0;i<len;i++){
+            if(i > max ) return false;   //if i =4 aur max index is 3 tabke liye hai ye
+            max = Math.max(max, i + nums[i]);
+        }
+        return true;
+    }
+}
