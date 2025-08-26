@@ -1,5 +1,5 @@
 class solution {
-public void main(int nums[], int k){
+public int maximunSizeSubArray(int nums[], int k){
 int sum=0;
 Map<Integer, Integer> map = new HashMap<>();
 map.put(0,-1);
