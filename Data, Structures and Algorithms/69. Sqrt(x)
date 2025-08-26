@@ -1,0 +1,18 @@
+// binary search method
+class Solution {
+    public int mySqrt(int x) {
+        int left =1;
+        int rigth = x;
+        int ans=0;
+        while(left<=rigth){
+            int mid = left + (rigth-left)/2;
+            if(mid <= x / mid){    // iwas doing mid * mid but had to look up and this is what came up
+                ans = mid;
+                left = mid +1;
+            }else {
+                rigth = mid -1;
+            }
+        }
+        return ans;
+    }
+}
