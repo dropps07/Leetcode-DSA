@@ -1,0 +1,36 @@
+class solution {
+public void twoSum(int nums[], int ind, int target, List<List<Integer>> ans){
+int i = ind;
+int j = nums.length-1;
+while(i<j){
+int a = nums[i];
+int b = nums[j];
+if(a + b == target){
+List<Integer> lst = new ArrayList<>();
+lst.add(-target);
+lst.add(a);
+lst.add(b);
+ans.add(lst);
+i++;
+while(i<j && nums[i] != nums[i-1]) { i++; }
+j--;
+while(i<j && nums[j] != nums[j-1]) { j--; }
+} else if(a + b <target){
+i++;
+} else {
+j--;
+}
+}
+  }
+public List<List<Integer>> threeSum(int nums){
+Arrays.sort(nums);
+for(int i=0;i<num.length-2;i++){
+List<List<Integer>> ans = new ArrayList<>();
+if(i ==0 && nums[i] != nums[i-1]){
+int a = nums[i];
+twoSum(nums, i+1, -a, ans);
+}
+}
+return ans;
+}
+}
