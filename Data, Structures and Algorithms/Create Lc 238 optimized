@@ -1,0 +1,29 @@
+class Solution {
+    public int[] productExceptSelf(int[] nums) {
+        int n = nums.length;
+        // int lp[]= new int[n];
+        int rp[]= new int[n];
+        int ans[]= new int[n];
+
+        //calculate lp
+        // lp[0] = nums[0];
+        // for(int i=1;i<n;i++){
+        //     lp[i] = lp[i-1] * nums[i];
+        // }
+
+        //calculate rp
+        rp[n-1] = nums[n-1];
+        for(int i = n-2; i>=0; i--){
+            rp[i] = rp[i+1] * nums[i]; 
+        }
+        //calculate ans
+        int leftProduct =1;
+        for(int i=0;i<n;i++){
+            // int leftProduct = (i==0)? 1: lp[i-1];
+            int RightProduct = (i==n-1)? 1: rp[i+1];
+            ans[i] = leftProduct * RightProduct;
+            leftProduct *= nums[i];           
+        }
+        return ans;
+    }
+}
