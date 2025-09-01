@@ -1,0 +1,19 @@
+class Solution {
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> result = new ArrayList<>();
+        int n = nums.length; 
+        int totSeq = (int)Math.pow(2,n);
+        for(int i=0; i<totSeq ;i++){
+            List<Integer> subSeq = new ArrayList();
+            for(int bitPos=0;bitPos<n;bitPos++){
+            int mask = (1<<bitPos);
+            if((i & mask)!=0){
+                subSeq.add(nums[bitPos]);
+            }
+                
+            }
+            result.add(subSeq);
+        }
+        return result;
+    }
+}
