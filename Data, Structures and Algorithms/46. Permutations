@@ -1,0 +1,28 @@
+class Solution {
+    List<List<Integer>> permutation = new ArrayList<>();
+    private void swap(int nums[], int a, int b){
+        int t = nums[a];
+        nums[a] = nums[b];
+        nums[b] = t;
+    }
+    public void helper(int[] nums, int index){
+        if(index == nums.length -1){
+            List<Integer> perm = new ArrayList<>();
+            for(int x : nums)
+                perm.add(x);
+            permutation.add(perm);
+            
+        }else{
+            for(int i=index;i<nums.length;i++){
+                swap(nums, i, index);
+                helper(nums, index+1);
+                //backtracking
+                swap(nums, i, index);
+            }
+        }
+    }
+    public List<List<Integer>> permute(int[] nums) {
+        helper(nums, 0); 
+        return permutation;
+    }
+}
