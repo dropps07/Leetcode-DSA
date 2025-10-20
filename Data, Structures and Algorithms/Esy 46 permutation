@@ -1,0 +1,25 @@
+class Solution {
+    List<List<Integer>> res = new ArrayList<>();
+    public List<List<Integer>> permute(int[] nums) {
+        helper(res, new ArrayList<>(), nums);
+        return res;
+    }
+    private void helper(List<List<Integer>>res, ArrayList<Integer> temp, int[] nums){
+        //if we match the length, it is a permutation
+        if(temp.size()== nums.length){
+            res.add(new ArrayList<>(temp));
+            return;
+        }
+        //iterating over each ele in nums arr
+        for(int x : nums){
+            //if we got same element we skip
+            if(temp.contains(x)){
+                continue;
+            }
+            //backtracking
+            temp.add(x);                // add a num
+            helper(res, temp, nums);    // go back and try another num
+            temp.remove(temp.size()-1); // removing the num
+        }
+    }
+}
