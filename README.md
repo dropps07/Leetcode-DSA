@@ -8,9 +8,14 @@ tldr: consistency is key
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/dropps07/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0707-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/dropps07/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
