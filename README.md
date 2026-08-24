@@ -11,6 +11,7 @@ tldr: consistency is key
 | [0021-merge-two-sorted-lists](https://github.com/dropps07/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/dropps07/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/dropps07/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0707-design-linked-list) |
 ## Design
@@ -26,12 +27,15 @@ tldr: consistency is key
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dropps07/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dropps07/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dropps07/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
