@@ -28,14 +28,21 @@ tldr: consistency is key
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dropps07/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/dropps07/Leetcode-DSA/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dropps07/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/dropps07/Leetcode-DSA/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dropps07/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/dropps07/Leetcode-DSA/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dropps07/Leetcode-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
