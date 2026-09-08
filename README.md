@@ -14,6 +14,7 @@ tldr: consistency is key
 | [0142-linked-list-cycle-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/dropps07/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0707-design-linked-list) |
 ## Design
 |  |
@@ -24,6 +25,7 @@ tldr: consistency is key
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dropps07/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/dropps07/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +39,7 @@ tldr: consistency is key
 | [0142-linked-list-cycle-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/dropps07/Leetcode-DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -59,4 +62,8 @@ tldr: consistency is key
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
