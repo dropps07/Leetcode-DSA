@@ -12,6 +12,7 @@ tldr: consistency is key
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/dropps07/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/dropps07/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
@@ -24,6 +25,7 @@ tldr: consistency is key
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dropps07/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/dropps07/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
@@ -37,6 +39,7 @@ tldr: consistency is key
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dropps07/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/dropps07/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
@@ -65,5 +68,6 @@ tldr: consistency is key
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
