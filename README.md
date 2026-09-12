@@ -9,6 +9,7 @@ tldr: consistency is key
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dropps07/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/dropps07/Leetcode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/dropps07/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -25,6 +26,7 @@ tldr: consistency is key
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dropps07/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/dropps07/Leetcode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/dropps07/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
