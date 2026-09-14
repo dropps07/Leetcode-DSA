@@ -22,6 +22,7 @@ tldr: consistency is key
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dropps07/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -73,5 +74,10 @@ tldr: consistency is key
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/dropps07/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dropps07/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
