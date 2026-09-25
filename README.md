@@ -24,6 +24,7 @@ tldr: consistency is key
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/dropps07/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/dropps07/Leetcode-DSA/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +78,7 @@ tldr: consistency is key
 | [0143-reorder-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/dropps07/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dropps07/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/dropps07/Leetcode-DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -89,8 +91,13 @@ tldr: consistency is key
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dropps07/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/dropps07/Leetcode-DSA/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dropps07/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/dropps07/Leetcode-DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
