@@ -58,6 +58,7 @@ tldr: consistency is key
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dropps07/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dropps07/Leetcode-DSA/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
@@ -100,4 +101,12 @@ tldr: consistency is key
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/dropps07/Leetcode-DSA/tree/master/0901-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dropps07/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dropps07/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
