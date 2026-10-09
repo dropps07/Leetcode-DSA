@@ -88,6 +88,7 @@ tldr: consistency is key
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dropps07/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0746-min-cost-climbing-stairs](https://github.com/dropps07/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -105,6 +106,7 @@ tldr: consistency is key
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dropps07/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/dropps07/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
