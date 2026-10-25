@@ -59,6 +59,7 @@ tldr: consistency is key
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dropps07/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dropps07/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dropps07/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/dropps07/Leetcode-DSA/tree/master/0509-fibonacci-number) |
@@ -109,6 +110,7 @@ tldr: consistency is key
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dropps07/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dropps07/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/dropps07/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0213-house-robber-ii) |
@@ -119,4 +121,8 @@ tldr: consistency is key
 | ------- |
 | [0070-climbing-stairs](https://github.com/dropps07/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/dropps07/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dropps07/Leetcode-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
