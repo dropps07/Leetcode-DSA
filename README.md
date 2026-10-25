@@ -90,6 +90,7 @@ tldr: consistency is key
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dropps07/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/dropps07/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0213-house-robber-ii) |
@@ -111,6 +112,7 @@ tldr: consistency is key
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dropps07/Leetcode-DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/dropps07/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/dropps07/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0213-house-robber-ii) |
@@ -125,4 +127,8 @@ tldr: consistency is key
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dropps07/Leetcode-DSA/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
