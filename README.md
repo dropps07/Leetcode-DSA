@@ -157,5 +157,6 @@ tldr: consistency is key
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/dropps07/Leetcode-DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dropps07/Leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
