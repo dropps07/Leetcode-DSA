@@ -97,6 +97,7 @@ tldr: consistency is key
 | [0198-house-robber](https://github.com/dropps07/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/dropps07/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/dropps07/Leetcode-DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -122,6 +123,7 @@ tldr: consistency is key
 | [0213-house-robber-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/dropps07/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/dropps07/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/dropps07/Leetcode-DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -136,4 +138,5 @@ tldr: consistency is key
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dropps07/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dropps07/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/dropps07/Leetcode-DSA/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
