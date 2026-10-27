@@ -4,21 +4,22 @@ class Solution {
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        for(int[] edge: edges){
-            int u = edge[0];
-            int v = edge[1];
-            adj.get(u).add(v);
+        for(int x[] : edges){
+            int v = x[0];
+            int u = x[1];
             adj.get(v).add(u);
+            adj.get(u).add(v);
         }
-        boolean[] visited=new boolean[n];
-        return dfs(source, destination, adj, visited);
+        boolean[] visited= new boolean[n];
+        return solve(source, destination, adj, visited);
     }
-    private boolean dfs(int node, int destination, List<List<Integer>>adj, boolean[] visited){
-        if(node == destination) return true;
-        visited[node] = true;
-        for(int x : adj.get(node)){
+    private boolean solve(int source, int destination, List<List<Integer>> adj, boolean[] visited){
+        //base case
+        if(source == destination) return true;
+        visited[source]= true;
+        for(int x: adj.get(source)){
             if(!visited[x]){
-                if(dfs(x, destination, adj, visited)){
+                if(solve(x,destination, adj, visited)){
                     return true;
                 }
             }
